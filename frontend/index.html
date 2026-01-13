@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Business Plan Generator Agent</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Business Plan Generator Agent</h1>
+
+    <section class="card">
+      <label for="theme">Topic</label>
+      <input id="theme" type="text" placeholder="e.g., Space debris removal service" autocomplete="off" />
+      <div class="btn-row">
+        <button id="startBtn">Run</button>
+        <button id="clearBtn" class="ghost" type="button">Clear</button>
+      </div>
+      <p class="hint">Press Enter to run. Your topic is saved automatically.</p>
+    </section>
+
+    <section id="approvalCard" class="card hidden">
+      <h2>Awaiting Approval</h2>
+      <p id="question"></p>
+      <div class="btn-row">
+        <button class="ok" id="approveBtn">Approve (y)</button>
+        <button class="retry" id="retryBtn">Revise (retry)</button>
+        <button class="ng" id="rejectBtn">Reject (n)</button>
+      </div>
+      <h3>Preview so far</h3>
+      <div id="preview" class="preview"></div>
+    </section>
+
+    <section id="statusCard" class="card hidden" aria-live="polite">
+      <div class="status-header">
+        <h2>Status</h2>
+        <div class="status-right">
+          <span id="stateBadge" class="badge" data-state="idle">Idle</span>
+          <span id="spinner" class="spinner hidden" aria-hidden="true"></span>
+          <button id="cancelBtn" class="ghost small hidden" type="button">Cancel</button>
+          <button id="clearLogBtn" class="ghost small" type="button">Clear log</button>
+        </div>
+      </div>
+
+      <div class="work-row">
+        <span class="work-label">Current task:</span>
+        <span id="workBadge" class="work-badge">-</span>
+      </div>
+
+      <div id="errorBanner" class="error hidden"></div>
+
+      <div class="log">
+        <div class="log-header">
+          <h3>Progress Log</h3>
+          <p class="hint">Newest first (max 80) • Click an entry to expand details</p>
+        </div>
+        <div id="logList" class="log-list"></div>
+      </div>
+
+      <details id="statusDetails" class="details">
+        <summary>Details (latest event / fetch state)</summary>
+        <pre id="status"></pre>
+      </details>
+    </section>
+
+    <section id="reportCard" class="card hidden">
+      <div class="status-header">
+        <h2>Final Report</h2>
+        <div class="btn-row">
+          <button id="copyBtn" class="ghost small" type="button">Copy</button>
+          <button id="downloadBtn" class="ghost small" type="button">Download .txt</button>
+        </div>
+      </div>
+      <pre id="report"></pre>
+    </section>
+  </main>
+
+  <script src="./app.js"></script>
+</body>
+</html>

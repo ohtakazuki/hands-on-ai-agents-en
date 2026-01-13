@@ -1,0 +1,153 @@
+Aurora Works, Inc.
+Employee Handbook (Excerpt)
+
+Section 1 — Scope and Purpose
+1.1 Purpose: This excerpt establishes clear, actionable rules for work hours, scheduling, remote work, leave/time off, tardiness/early departures, outside employment, performance reviews, disciplinary actions, and HR reporting channels.
+1.2 Applicability: Applies to all Aurora Works employees (full‑time, part‑time, exempt, non‑exempt) based in the U.S. where local law allows. Where state or federal law imposes greater rights, that law controls.
+
+Section 2 — Work Hours, Flexible Scheduling, and Core Hours
+2.1 Standard Work Week
+- Exempt employees: standard expectation is 40 hours per week; hours scheduled by manager to meet business needs.
+- Non‑exempt employees: scheduled hours must be recorded and approved; overtime must be pre‑approved by the manager.
+
+2.2 Core Hours and Coverage
+- Core hours are 10:00 AM – 3:00 PM local time, Monday–Friday. Employees must be available for meetings and immediate team collaboration during core hours unless an approved exception exists.
+- Teams that must support cross‑country customers may establish team‑specific core hours with manager and HR approval.
+
+2.3 Flexible Scheduling
+- Aurora Works supports flexible start/stop times outside core hours to accommodate personal needs and time zones.
+- Approval workflow:
+  1. Employee submits a Flexible Schedule Request in the HR portal at least 10 business days before start.
+  2. Manager reviews availability impact and either approves, proposes modifications, or denies within 5 business days.
+  3. HR reviews for policy compliance and finalizes within 3 business days.
+- Exceptions: Flexible schedules may be disallowed for roles requiring fixed coverage (e.g., scheduled customer support) or where performance/customer service would be impacted. Manager must document rationale when denying.
+
+Section 3 — Remote and Hybrid Work
+3.1 General Policy
+- Aurora Works is hybrid/remote‑friendly. Many roles are eligible for full or partial remote work; others require regular on‑site presence. Eligibility is role‑based and determined by manager and HR.
+3.2 Permanent Remote Work Outside Commutable Distance
+- Employees wishing to work permanently outside the commutable area must submit a Remote Work Location Request at least 30 days before relocation.
+- Approval requires manager sign‑off and HR review for tax, payroll, and benefits impacts; final approval may take up to 15 business days.
+3.3 Equipment and Security
+- Company equipment must be used for Aurora work only. Remote employees must follow the IT security policy (passwords, VPN, data encryption). Personal devices require advance IT approval.
+3.4 Workspace Safety
+- Employees are responsible for maintaining a safe ergonomic home workspace. The company may provide a one‑time stipend per remote employee as per the IT/Facilities policy (separate document).
+3.5 On‑Site Expectations
+- If a role requires periodic on‑site work, managers will provide schedule at least 2 weeks in advance.
+
+Section 4 — Time Off and Leave
+4.1 Paid Time Off (PTO)
+- Accrual schedule:
+  - 0–2 years service: 15 days (120 hours) per year.
+  - 3–6 years: 20 days (160 hours) per year.
+  - 7+ years: 25 days (200 hours) per year.
+- PTO accrues per pay period, available after 90 days of employment unless local law requires immediate availability.
+- Carryover: Up to 40 hours PTO may be carried over to the next calendar year; excess hours are forfeited unless otherwise required by law.
+
+4.2 Requesting PTO
+- Single‑day requests: submit via HR portal at least 48 hours in advance.
+- Multi‑day requests (3+ consecutive days): submit at least 14 calendar days in advance.
+- Manager response deadline: 5 business days. If manager does not respond, HR will follow up and may auto‑approve for non‑critical coverage needs.
+
+4.3 Sick Leave and Short‑term Illness
+- Sick time is included in PTO. For absences of three or more consecutive days due to illness, employees must notify their manager and may be asked to provide medical documentation.
+
+4.4 Family Leave and FMLA
+- Eligible employees may take unpaid leave under FMLA (12 weeks in a 12‑month period) subject to federal eligibility (12 months of employment and 1,250 hours worked in the prior 12 months).
+- To request FMLA: submit a Leave Request to HR at least 30 days in advance when practicable. HR will notify employees of eligibility and required medical certification within 5 business days.
+- Required documentation: medical certification must be provided within 15 calendar days of HR’s request, unless impracticable.
+
+4.5 Parental Leave
+- Aurora Works provides 6 weeks paid primary caregiver leave (in addition to any applicable PTO) for birth or adoption, subject to eligibility and documentation.
+- Notice: Employees should provide at least 30 days’ notice where practicable; otherwise as soon as possible.
+
+4.6 Bereavement and Jury Duty
+- Bereavement: Up to 5 paid days for immediate family; up to 2 paid days for extended family. Manager and HR must be notified as soon as practicable. Documentation (e.g., obituary) may be requested.
+- Jury Duty: Paid for required jury service. Employee must submit the jury summons to HR within 3 business days of receipt.
+
+4.7 Unpaid Leave and Special Circumstances
+- Unpaid leave may be granted on a case‑by‑case basis with manager and HR approval. Request at least 30 days in advance when possible. Approval requires a documented plan for benefits, return date, and coverage.
+
+Section 5 — Tardiness and Early Departures
+5.1 Expectations and Notification
+- Employees must record work hours in the company timekeeping system. For tardiness or early departures, employees must notify their manager as soon as possible and record the time entry.
+5.2 Documentation and Thresholds
+- Emergency/one‑time occurrences: excused when promptly reported.
+- Repeated occurrences:
+  - 3 occurrences within a 90‑day period: manager will issue a verbal counseling and document in the employee file.
+  - 5 occurrences within a 90‑day period: written warning.
+  - Continued occurrences after warnings: subject to PIP or further discipline up to termination.
+- Medical exceptions: If tardiness/early departures are due to a documented medical condition, provide medical certification; HR and manager will engage in an accommodation discussion under applicable law.
+
+5.3 Timekeeping Falsification
+- Falsifying time records, approving inaccurate timesheets, or otherwise manipulating timekeeping is prohibited and subject to immediate disciplinary action, up to termination.
+
+Section 6 — Outside Employment (Moonlighting)
+6.1 Permitted and Prohibited Activities
+- Outside employment is permitted if:
+  - It does not create a conflict of interest.
+  - It does not interfere with Aurora Works’ duties, scheduled hours, or performance.
+  - It does not use Aurora Works’ confidential information or resources.
+- Prohibited:
+  - Any work for a direct competitor, vendor under contract with Aurora Works where conflict exists, or in any role that compromises company IP or customer relationships.
+  - Using company time, systems, or resources for outside work.
+6.2 Disclosure and Approval Process
+- Employees must submit an Outside Employment Disclosure Form to HR at least 10 business days prior to starting outside work.
+- Manager and HR will review for conflicts within 7 business days and provide written approval, conditional approval, or denial. If denied, the employee must cease the outside employment or submit a mitigation plan.
+6.3 Enforcement
+- Failure to disclose or follow restrictions is grounds for disciplinary action, up to termination.
+
+Section 7 — Performance Reviews and Improvement
+7.1 Review Cycle
+- Annual performance review for all employees. Mid‑year check‑in required for all direct reports.
+7.2 Process and Documentation
+- Timeline:
+  1. Self‑assessment submitted in HR portal 7 calendar days before the review meeting.
+  2. Manager assessment completed and meeting scheduled; manager provides written goals and rating discussion.
+  3. Final review document signed by employee and manager within 5 business days after the meeting.
+- Ratings scale: Exceeds Expectations / Meets Expectations / Needs Improvement / Unsatisfactory (organization may use a numeric equivalent).
+7.3 Performance Improvement Plans (PIP)
+- When performance is “Needs Improvement” or “Unsatisfactory,” a PIP may be issued with:
+  - Specific, measurable objectives.
+  - Resources/training to be provided.
+  - Duration (typically 30–90 calendar days).
+  - Scheduled check‑ins (minimum weekly for non‑exempt, bi‑weekly for exempt roles) and documentation requirements.
+- Failure to meet PIP objectives may result in demotion, reassignment, suspension, or termination.
+
+Section 8 — Disciplinary Actions
+8.1 Progressive Discipline Framework
+- Typical progression (may vary based on severity):
+  1. Verbal counseling (documented).
+  2. Written warning.
+  3. Final written warning or suspension.
+  4. Termination.
+- Immediate termination may occur for severe misconduct including but not limited to: theft, fraud, harassment, violence, egregious confidentiality breaches, or timekeeping falsification.
+
+8.2 Documentation and Appeals
+- All disciplinary actions will be documented in the HR file. Employees may submit a written response to a disciplinary action within 10 business days; the response will be retained with the disciplinary record.
+
+Section 9 — Reporting Channels, Confidentiality, and Non‑Retaliation
+9.1 How to Report
+- HR email (internal): hr@auroraworks.internal
+- HR portal: Submit confidential case via the HR portal (link available on company intranet).
+- Anonymous reporting hotline: 1‑800‑000‑0000 (third‑party service) or via company hotline web form.
+9.2 What to Report
+- Workplace harassment, discrimination, safety incidents, ethics concerns, payroll errors, policy violations, retaliation concerns, or other compliance issues.
+9.3 Response Time and Process
+- HR acknowledges receipt within 3 business days.
+- Initial assessment within 5 business days; investigative timeframe depends on complexity but HR will provide status updates at least every 10 business days.
+9.4 Confidentiality and Protections
+- Investigations are confidential to the extent feasible. Aurora Works prohibits retaliation against anyone who reports in good faith or participates in an investigation. Retaliation should be reported immediately; violations result in disciplinary action up to termination.
+
+Section 10 — Enforcement and Exceptions
+10.1 Policy Enforcement
+- Managers are responsible for consistent application of these policies. HR is responsible for oversight, recordkeeping, and legal compliance checks.
+10.2 Exceptions
+- Any exception to this excerpt must be:
+  1. Requested in writing.
+  2. Reviewed and approved by the employee’s manager and HR.
+  3. Documented in writing with a clear end date (exceptions are typically temporary and will not create precedent).
+- Emergency exceptions may be granted by the VP of People or designee; HR will document rationale and duration.
+
+Revision History
+v1.0 — 2026-01-12: Initial issuance of Employee Handbook (Excerpt) covering work hours, scheduling, remote work, leave, tardiness, outside employment, performance reviews, disciplinary actions, and reporting channels.
